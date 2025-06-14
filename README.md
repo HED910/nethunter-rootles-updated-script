@@ -8,3 +8,7 @@ mv nethunter-rootles-updated-script/install-nethunter-termux.sh $HOME
 cd $HOME
 bash install-nethunter-termux.sh
 ```
+
+
+
+They have updated the script and they have not updated it correctly. Look, it was easy, I did it in literally 5 minutes, but they can't do it in months. Offsec is getting worse and worse.
